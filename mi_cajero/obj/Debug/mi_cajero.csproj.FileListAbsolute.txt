@@ -1,0 +1,10 @@
+C:\Escuela\mi_cajero\bin\Debug\mi_cajero.exe.config
+C:\Escuela\mi_cajero\bin\Debug\mi_cajero.exe
+C:\Escuela\mi_cajero\bin\Debug\mi_cajero.pdb
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.csproj.AssemblyReference.cache
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.Form1.resources
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.Properties.Resources.resources
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.csproj.GenerateResource.cache
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.csproj.CoreCompileInputs.cache
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.exe
+C:\Escuela\mi_cajero\obj\Debug\mi_cajero.pdb
